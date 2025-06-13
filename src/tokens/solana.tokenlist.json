@@ -1,13 +1,21 @@
 {
-  "chainId": 101,
-  "address": "BNVfSm3HwcwxzFi1A9LnQS9VyGbL2NAnu7NWB2Pf3qaw",
-  "symbol": "BRN",
-  "name": "Degen Brain",
-  "decimals": 9,
-  "logoURI": "https://i.imgur.com/OAM95FW.png",
-  "tags": ["meme", "community", "utility-token"],
-  "extensions": {
-    "website": "https://website.beacons.ai/degenbraindegen",
-    "description": "Degen Brain (BRN) is a meme coin on Solana with community-driven utility, trading tools, and playful vibes. The Meme Coin with a Big Brain 🧠"
-  }
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "BNVfSm3HwcwxzFi1A9LnQS9VyGbL2NAnu7NWB2Pf3qaw",
+      "symbol": "BRN",
+      "name": "Degen Brain",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/OAM95FW.png",
+      "tags": [
+        "meme",
+        "community",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://website.beacons.ai/degenbraindegen",
+        "description": "Degen Brain (BRN) is a meme coin on Solana with community-driven utility, trading tools, and playful vibes. The Meme Coin with a Big Brain \ud83e\udde0"
+      }
+    }
+  ]
 }
